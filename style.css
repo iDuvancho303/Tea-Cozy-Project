@@ -86,3 +86,14 @@ body {
 }
 
 /*ENDS FEATURED SECTION*/
+
+/*LOCATIONS SECTION*/
+.banner {
+    height: 500px;
+    max-width: 1200px;
+    margin: 40px auto auto auto;
+    padding-top: 85px;
+    background-image: url(images/img-locations-background.webp);
+    background-repeat: no-repeat;
+}
+

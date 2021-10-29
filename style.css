@@ -20,4 +20,16 @@ body {
 
 .logo  {
     height: 50px;
+    float: left;
+    padding: 10px;
+}
+
+.navigation {
+    float: right;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.navigation a {
+    
 }

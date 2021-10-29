@@ -45,3 +45,12 @@ body {
     text-decoration: underline;
     color: white;
 }
+
+.mission-container {
+    background-image: url(images/img-mission-background.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 700px;
+
+
+}

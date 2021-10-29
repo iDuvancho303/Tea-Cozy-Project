@@ -65,18 +65,13 @@ body {
     text-align: center;
 }
 
-#featured {
-    justify-content: center;
-    text-align: center;
-}
-
 .trend-container {
-    display: flex;
+    display: inline-flex;
     max-width: 1000px;
     height: auto;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    flex-wrap: wrap;
 }
 
 .trend img {

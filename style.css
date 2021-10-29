@@ -6,7 +6,7 @@ body {
     opacity: 0.9;
 }
 
-
+/*NAVBAR SECTION*/
 .header {
     width: 100%;
     height: 69px;
@@ -47,7 +47,9 @@ body {
     color: white;
 }
 
+/*ENDS NAVBAR SECTION*/
 
+/*MISSION SECTION*/
 .mission-container {
     background-image: url(images/img-mission-background.webp);
     background-repeat: no-repeat;
@@ -65,6 +67,9 @@ body {
     text-align: center;
 }
 
+/*ENDS MISSION SECTION*/
+
+/*FEATURED SECTION*/
 .trend-container {
     display: inline-flex;
     max-width: 1000px;
@@ -79,3 +84,5 @@ body {
     width: 300px;
     padding: 10px 10px;
 }
+
+/*ENDS FEATURED SECTION*/

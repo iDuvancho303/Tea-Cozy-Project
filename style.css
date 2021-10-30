@@ -4,6 +4,7 @@ body {
     color: seashell;
     background-color: black;
     opacity: 0.9;
+    text-align: center;
 }
 
 /*NAVBAR SECTION*/
@@ -70,20 +71,23 @@ body {
 /*ENDS MISSION SECTION*/
 
 /*FEATURED SECTION*/
-.trend-container {
+.trend-container  {
     display: inline-flex;
     max-width: 1000px;
     height: auto;
     flex-wrap: wrap;
     margin: 0 auto;
-    justify-content: center;
     text-align: center;
+    justify-content: center;
+   
+    
 }
 
 .trend img {
     height: 200px;
     width: 300px;
     padding: 10px 10px;
+    
 }
 
 /*ENDS FEATURED SECTION*/

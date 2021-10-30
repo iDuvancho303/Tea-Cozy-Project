@@ -131,3 +131,9 @@ body {
 .contact {
     text-align: center;
 }
+
+footer {
+    float: left;
+    padding-left: 20px;
+    display: block;
+}

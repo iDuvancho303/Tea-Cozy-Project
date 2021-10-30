@@ -93,7 +93,7 @@ body {
     height: 500px;
     max-width: 1200px;
     margin: 40px auto auto auto;
-    padding-top: 85px;
+    padding-top: 60px;
     background-image: url(images/img-locations-background.webp);
     background-repeat: no-repeat;
     background-position: center;
@@ -123,6 +123,11 @@ body {
     opacity: 0.9;
     margin-bottom: auto;
     text-align: center;
-
 }
 
+/*ENDS LOCATIONS SECTION*/
+
+/*fOOTER SECTION*/
+.contact {
+    text-align: center;
+}

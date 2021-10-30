@@ -75,8 +75,9 @@ body {
     max-width: 1000px;
     height: auto;
     flex-wrap: wrap;
-    align-items: center;
+    margin: 0 auto;
     justify-content: center;
+    text-align: center;
 }
 
 .trend img {
@@ -95,5 +96,32 @@ body {
     padding-top: 85px;
     background-image: url(images/img-locations-background.webp);
     background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.text2 {
+    font-size: 43px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.box-container {
+    max-width: 1050px;
+    margin: 15px auto auto auto;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.box {
+    height: 300px;
+    padding: 20px;
+    flex-basis: 30%;
+    box-sizing: border-box;
+    background-color: black;
+    opacity: 0.9;
+    margin-bottom: auto;
+
 }
 
